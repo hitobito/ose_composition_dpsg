@@ -1,3 +1,9 @@
 [submodule "hitobito"]
 	path = hitobito
 	url = https://github.com/hitobito/hitobito.git
+[submodule "hitobito_dpsg"]
+	path = hitobito_dpsg
+	url = https://github.com/hitobito/hitobito_dpsg
+[submodule "hitobito_pfadi_de"]
+	path = hitobito_pfadi_de
+	url = https://github.com/hitobito/hitobito_pfadi_de
