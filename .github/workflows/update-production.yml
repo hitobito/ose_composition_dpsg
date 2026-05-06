@@ -5,7 +5,7 @@ on:
     inputs:
       release:
         type: choice
-        description: Type of release. Regular is for normal, planned releases. Patch is for hotfixes and single-customer fix releases. Use custom to manually set a version number.
+        description: Type of release. Regular is for normal, periodic releases. Patch is for hotfixes and single-customer fix releases. Use custom to manually set a version number.
         required: true
         default: regular
         options:
